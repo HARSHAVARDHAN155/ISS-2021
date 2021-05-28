@@ -2,4 +2,5 @@
 
 ### Trail head
 * This is Lab-1.
-*changing in the readme by harshavardhan
+*changing in the readme by harsha ...
+%%% merge conflict ..
